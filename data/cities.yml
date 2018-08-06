@@ -1,12 +1,12 @@
 - name: Berlin
   address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
-  picture: "https://kitt.lewagon.com/placeholder/cities/<%= city %>"
+  picture: "https://kitt.lewagon.com/placeholder/cities/berlin"
 - name: Paris
   address: "16, villa Gaudelet 75011 Paris"
-  picture: "https://kitt.lewagon.com/placeholder/cities/<%= city %>"
+  picture: "https://kitt.lewagon.com/placeholder/cities/paris"
 - name: Rio
   address: "16, villa Gaudelet 75011 Paris"
-  picture: "https://kitt.lewagon.com/placeholder/cities/<%= city %>"
-- name: Shangai
+  picture: "https://kitt.lewagon.com/placeholder/cities/rio"
+- name: Shanghai
   address: "16, villa Gaudelet 75011 Paris"
-  picture: "https://kitt.lewagon.com/placeholder/cities/<%= city %>"
+  picture: "https://kitt.lewagon.com/placeholder/cities/shanghai"
